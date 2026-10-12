@@ -1,7 +1,9 @@
 # Clinic Management System
 
 ## Overview
-A web application developed for [Subject/Class Name]. 
+A web application developed for streamlining patient/client registration, appointment scheduling, and administrative workflows for healthcare providers and clinic staff.
+
+---
 
 ## Tech Stack
 * **Backend:** PHP / Laravel Framework
